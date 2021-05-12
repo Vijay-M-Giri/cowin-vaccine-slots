@@ -1,4 +1,4 @@
-# Cowin slot alert
+# Cowin vaccine slots alert
 
 Sends email alerts when the vaccine slots are available.
 
