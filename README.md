@@ -8,7 +8,7 @@ Sends email alerts when the vaccine slots are available.
 ## Steps
 
 - One sender email address and password is required
-- If you are using Gmail address then get app password. Follow the steps [here](https://support.google.com/accounts/answer/185833?hl=en). For others, the password of the email account may suffice.
+- If you are using Gmail address then get 'app password'. Follow the steps [here](https://support.google.com/accounts/answer/185833?hl=en). For others, the password of the email account may suffice.
 - Set the above password as environment variable
   - `$> MAIL_PASSWORD=<your password>`
   - `$> export MAIL_PASSWORD`
